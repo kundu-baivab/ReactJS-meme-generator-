@@ -1,0 +1,53 @@
+body{
+    font-family: Inter-sans, sans-serif;
+  }
+  
+  nav{
+    display: flex;
+    align-items: center;
+    background-color: #21222A;
+    height: 90px;
+    padding: 30px 25px;
+  }
+  
+  nav > h3{
+    color: #61dafb;
+    margin-right: auto;
+    margin-left: 10px;
+    font-weight: 600;
+    font-size: 30px;
+  }
+  
+   nav > h4{
+    color: aliceblue;
+  }
+  
+  .main{
+    align-items: center;
+    background-color: #282D35;
+    background-image: url(https://miro.medium.com/max/1400/0*DZZjrKbTxFTssqRK.jpg);
+    background-position-x: right;
+    background-position: 100% 10%;
+  }
+  
+  .main > h1{
+    padding-top: 45px;
+    padding-bottom: 30px;
+    margin-left: 30px;
+    color: aliceblue;
+    font-weight: 700;
+  }
+  
+  .main > ul{
+    margin-left: 40px;
+    font-size: 20px;
+    color: aliceblue;
+    padding-bottom: 40px;
+    line-height: 50px;
+  }
+  
+  li::marker{
+    color: #61dafb;
+    font-size: 30px;
+  }
+  
