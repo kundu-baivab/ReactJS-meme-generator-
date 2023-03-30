@@ -1,8 +1,9 @@
 import React from 'react'
-import Main from './components1/Main.mjs'
-import Header from './components1/Header.mjs'
-import Footer from './components1/Footer.mjs'
-import './components1/styles.css'
+import Header from './meme_generator/Header.mjs'
+import Meme from './meme_generator/Meme.mjs'
+import './meme_generator/styles.css'
+// import Data from './TravelJournal_comps/Data.mjs'
+
 
 export default function App() {
   return (
@@ -10,10 +11,7 @@ export default function App() {
 
 
       <Header />
-      <Main />
-      <Footer />
-
-
+      <Meme />
 
     </div>
   )
