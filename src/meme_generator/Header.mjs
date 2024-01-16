@@ -6,7 +6,7 @@ export default function Header(){
         <header>
             <img src={Timg} alt="" srcset="" />
             <h3>Meme Generator</h3>
-            <h5>Have fun!</h5>
+            {/* <h5>Have fun!</h5> */}
         </header>
     )
 }
