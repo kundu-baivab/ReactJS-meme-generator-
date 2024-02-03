@@ -1,4 +1,6 @@
 # Meme Generator App
+'' Website''
+https://meme-genr.vercel.app/
 
 ## Introduction
 
@@ -35,4 +37,4 @@ Welcome to the Meme Generator App! This app is built using React and allows you 
    - On the Meme Generator App's home page, you will see two input fields for the top and bottom text of the meme.
    - Enter your desired text in the input fields, and the text will be overlaid on the selected meme image.
    - You can change the meme image by clicking the "Get a new meme image 🖼" button to fetch a random meme template from the Imgflip API.
-   - Adjust the font, size, color, and alignment of the text as needed.
+   - Also download the meme you created, by clicking on the download button in .jpeg format.
