@@ -1,6 +1,4 @@
-# Meme Generator App
-## Website
-`https://meme-genr.vercel.app/`
+# Meme Generator App [Website Link](https://meme-genr.vercel.app/)
 
 ## Introduction
 
